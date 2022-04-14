@@ -6,4 +6,4 @@
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 리드미 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 백준 | 22.04.13 | 그리디 | [설탕배달](https://www.acmicpc.net/problem/2839) | 브론즈1 | [이동](Swift/Greedy/readme/BOJ2839.md) |
-| 백준 | 22.04.14 | 그리디 | [ATM](https://www.acmicpc.net/problem/11399) | 실버3 | [이동](Swift/Greedy/readme/.md) |
+| 백준 | 22.04.14 | 그리디 | [ATM](https://www.acmicpc.net/problem/11399) | 실버3 | [이동](Swift/Greedy/readme/BOJ11399.md) |
