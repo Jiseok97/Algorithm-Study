@@ -8,3 +8,4 @@
 | 백준 | 22.04.13 | 그리디 | [설탕배달](https://www.acmicpc.net/problem/2839) | 브론즈1 | [이동](Swift/Greedy/readme/BOJ2839.md) |
 | 백준 | 22.04.14 | 그리디 | [ATM](https://www.acmicpc.net/problem/11399) | 실버3 | [이동](Swift/Greedy/readme/BOJ11399.md) |
 | 백준 | 22.04.15 | 그리디 | [문서검색](https://www.acmicpc.net/problem/1543) | 실버4 | [이동](Swift/Greedy/readme/BOJ1543.md) |
+| 백준 | 22.04.18 | 그리디 | [동전 0](https://www.acmicpc.net/problem/11047) | 실버3 | [이동](Swift/Greedy/readme/BOJ11047.md) |
