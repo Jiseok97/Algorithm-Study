@@ -11,3 +11,4 @@
 | 백준 | 22.04.18 | 그리디 | [동전 0](https://www.acmicpc.net/problem/11047) | 실버3 | [이동](Swift/Greedy/readme/BOJ11047.md) |
 | 백준 | 22.04.19 | 그리디 | [A → B](https://www.acmicpc.net/problem/16953) | 실버1 | [이동](Swift/Greedy/readme/BOJ16953.md) |
 | 백준 | 22.04.20 | 그리디 | [회의실 배정](https://www.acmicpc.net/problem/1931) | 실버1 | [이동](Swift/Greedy/readme/BOJ1931.md) |
+| 백준 | 22.04.21 | 그리디 | [보물](https://www.acmicpc.net/problem/1026) | 실버4 | [이동](Swift/Greedy/readme/BOJ1026.md) |
